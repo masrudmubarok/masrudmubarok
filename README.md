@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Masrud Mubarok</h1>
+<h1 align="center">Hi 👋, I'm Masrud Mubarok</h1>
 
 <p align="left">
   <a href="https://github.com/masrudmubarok/masrudmubarok">
