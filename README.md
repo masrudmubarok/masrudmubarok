@@ -4,7 +4,7 @@
   <a href="https://github.com/masrudmubarok/masrudmubarok">
     <img src="https://komarev.com/ghpvc/?username=masrudmubarok" alt="page views" />
   </a>
-  <a href="https://jacobcolvin.com">
+  <a href="https://masrudmubarok.my.id.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmasrudmubarok.my.id">
   </a>
   <a href="https://www.youtube.com/channel/UCQlzVd6RFAYCfMVxlYLunvg">
