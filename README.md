@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Masrud Mubarok</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Masrud Mubarok</h1>
 
 <p align="left">
   <a href="https://github.com/masrudmubarok/masrudmubarok">
@@ -18,7 +18,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masrudmubarok&" alt="masrudmubarok" />
 </p>
-
 
 <h2 align="left" id="macropower-tech">Tools</h2>
 
