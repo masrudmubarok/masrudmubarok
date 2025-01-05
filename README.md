@@ -79,5 +79,17 @@
       <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="40" height="40"/> </a>
       <br>AWS
     </td>
+    <td align="center" width="96">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" alt="dotnet" width="40" height="40"/>
+      </a>
+      <br>.NET
+    </td>
   </tr>
 </table>
