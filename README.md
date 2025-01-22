@@ -15,48 +15,21 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masrudmubarok&" alt="masrudmubarok" />
-</p>
-
-<h2 align="left" id="macropower-tech">Tools</h2>
-
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+    <td style="padding-right: 20px; border: 2px solid #ccc;">
+      <img src="https://github-readme-stats.vercel.app/api?username=masrudmubarok&theme=default&show_icons=true&hide_border=true&count_private=true" alt="masrudmubarok's GitHub Stats" width="400" height="150" />
     </td>
-    <td align="center" width="96">
-      <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <td style="padding-left: 20px; border: 2px solid #ccc;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masrudmubarok&theme=default&show_icons=true&hide_border=true&layout=compact" alt="masrudmubarok's GitHub Stats" width="400" height="150" />
     </td>
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Tech Stack</h2>
+<h2 align="left" id="macropower-tech">Programming Language</h2>
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-      </a>
-      <br>C#
-    </td>
     <td align="center" width="96">
       <a href="https://www.oracle.com/java/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -64,18 +37,28 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-      <br>MySQL
+      <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+      <br>JavaScript
     </td>
-  </tr>
+    <td align="center" width="96">
+      <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+      <br>Python
+    </td>
+</table>
+
+<h2 align="left" id="macropower-tech">Frameworks</h2>
+
+<table>
   <tr>
     <td align="center" width="96">
-      <a href="https://symfony.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
-      <br>Symfony
-    </td>
-    <td align="center" width="96">
-      <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/> </a>
-      <br>Laravel
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+      </a>
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -86,14 +69,41 @@
       <br>React.js
     </td>
     <td align="center" width="96">
-      <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".NET" width="40" height="40"/>
-      </a>
-      <br>.NET
+      <a href="https://symfony.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+      <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/> </a>
+      <br>Laravel
+    </td>
+  </tr>
+</table>
+
+<h2 align="left" id="macropower-tech">Others</h2>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+      <br>VS Code
+    </td>
+        <td align="center" width="96">
+          <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+          <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+      <br>Postman
     </td>
     <td align="center" width="96">
       <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
