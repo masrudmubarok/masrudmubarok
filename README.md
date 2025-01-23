@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Programming Language</h2>
+<h2 align="left" id="macropower-tech">Programming Languages</h2>
 
 <table>
   <tr>
