@@ -69,12 +69,12 @@
       <br>React.js
     </td>
     <td align="center" width="96">
-      <a href="https://symfony.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
-      <br>Symfony
-    </td>
-    <td align="center" width="96">
       <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/> </a>
       <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="https://symfony.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
+      <br>Symfony
     </td>
   </tr>
 </table>
@@ -83,6 +83,28 @@
 
 <table>
   <tr>
+    <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+        </a>
+        <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <a href="https://www.mongodb.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+        </a>
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+      </a>
+      <br>AWS
+    </td>
     <td align="center" width="96">
       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
       <br>VS Code
@@ -94,16 +116,6 @@
     <td align="center" width="96">
       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
       <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com/" target="_blank"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-      </a>
-      <br>AWS
     </td>
   </tr>
 </table>
