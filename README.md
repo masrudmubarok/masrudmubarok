@@ -31,18 +31,18 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
       <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
       <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.oracle.com/java/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      </a>
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -54,12 +54,6 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-      </a>
-      <br>Spring Boot
-    </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Node.js
@@ -75,6 +69,12 @@
     <td align="center" width="96">
       <a href="https://symfony.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
       <br>Symfony
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+      </a>
+      <br>Spring Boot
     </td>
   </tr>
 </table>
