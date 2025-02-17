@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=masrudmubarok" alt="page views" />
   </a>
   <a href="https://devlite.org/masrudmubarok" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmasrudmubarok.my.id">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdevlite.org%2Fmasrudmubarok">
   </a>
   <a href="https://www.youtube.com/channel/UCQlzVd6RFAYCfMVxlYLunvg" target="_blank">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCQlzVd6RFAYCfMVxlYLunvg?style=flat&logo=youtube">
