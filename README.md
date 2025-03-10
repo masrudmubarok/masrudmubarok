@@ -26,26 +26,45 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Programming Languages</h2>
+<h2 align="left" id="macropower-tech">Tech Stack</h2>
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      <a href="https://laravel.com/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
       </a>
-      <br>Java
+      <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <br>Python
+      <a href="https://nodejs.org/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+      </a>
+      <br>Node.js
     </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+      </a>
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://vuejs.org/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
 </table>
