@@ -37,16 +37,16 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="https://nodejs.org/" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
       <a href="https://vuejs.org/" target="_blank"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
       </a>
       <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+      </a>
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank"> 
