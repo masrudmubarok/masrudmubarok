@@ -25,5 +25,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left" id="macropower-tech">Tech Stack</h2>
